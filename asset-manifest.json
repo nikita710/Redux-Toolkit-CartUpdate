@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nikita710/Redux-Toolkit-CartUpdate/static/css/main.c7e0a828.css",
+    "main.js": "/nikita710/Redux-Toolkit-CartUpdate/static/js/main.34b324df.js",
+    "static/js/787.1cf76a40.chunk.js": "/nikita710/Redux-Toolkit-CartUpdate/static/js/787.1cf76a40.chunk.js",
+    "index.html": "/nikita710/Redux-Toolkit-CartUpdate/index.html",
+    "main.c7e0a828.css.map": "/nikita710/Redux-Toolkit-CartUpdate/static/css/main.c7e0a828.css.map",
+    "main.34b324df.js.map": "/nikita710/Redux-Toolkit-CartUpdate/static/js/main.34b324df.js.map",
+    "787.1cf76a40.chunk.js.map": "/nikita710/Redux-Toolkit-CartUpdate/static/js/787.1cf76a40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7e0a828.css",
+    "static/js/main.34b324df.js"
+  ]
+}
